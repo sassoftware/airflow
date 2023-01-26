@@ -17,7 +17,8 @@
  under the License.
 -->
 
-# Apache Airflow
+# Apache Airflow -- Archived Repository
+**Notice: The functionality from this repository can now be found in the [sas-airflow-provider](https://github.com/sassoftware/sas-airflow-provider) repository. We initially attempted to contribute directly to the apache airflow repository, but ultimately decided to keep our contribution in our own repository (mainly due to the guidance of the airflow developers). This fork of the airflow repository contains our initial contribution.**  
 
 [![PyPI version](https://badge.fury.io/py/apache-airflow.svg)](https://badge.fury.io/py/apache-airflow)
 [![GitHub Build](https://github.com/apache/airflow/workflows/CI%20Build/badge.svg)](https://github.com/apache/airflow/actions)
